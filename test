@@ -1,0 +1,8 @@
+Specular Exponent: 32
+Specular Scale: 5
+Specular Color: [1, .8, .58]
+Rim Light Scale: 5
+Rim Light Color: [1, 1, 1]
+Diffuse Warp: default
+Cube Map Texture: cube_legion_commander_cube
+Cube Map Scale: 1
